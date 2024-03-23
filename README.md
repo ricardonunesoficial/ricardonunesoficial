@@ -14,7 +14,7 @@ Repositório desenvolvido para fins educativos, não sou um desenvolvedor (ainda
 - ⚡ Fun fact: I'm a Infra Guy - (:-p)
 
 ## Objetivo
-Introduzir ao versionamento de código com Git e GitHub.
+Não tenho ideia 💡, porem, **Let's do this and have some fun!**
 
 ## Ferramentas
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
@@ -27,15 +27,7 @@ Introduzir ao versionamento de código com Git e GitHub.
 - [Whatch Me](https://www.youtube.com/ricardonunespnl)
 
 ##
-<div align="center">Feito com 💞️ por <a href="https://www.instagram.com/ricardonunes.oficial/">Ricardo Nunes</a>.</div>
-
-- 👋 Hi, I’m @ricardonunesoficial
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-- ⚡ Fun fact: ...
+<div align="center">Feito com 💞️ por <a href="https://www.instagram.com/ricardonunes.oficial/"> 👋 Ricardo Nunes 👋 </a>.</div>
 
 <!---
 ricardonunesoficial/ricardonunesoficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
