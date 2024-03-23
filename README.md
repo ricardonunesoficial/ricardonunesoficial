@@ -4,7 +4,7 @@
     <span> 👀 Um Pouco sobre mim! 👀 </span>
 </h1>
 
-Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio para o curso **Versionamento de Código com Git e GitHub** da [Digital Innovation One](https://www.dio.me/).
+Repositório desenvolvido para fins educativos, não sou um desenvolvedor (ainda) **Versionamento de Código, Infraestrutura em Cloud com Git e GitHub**.
 
 - 😄 Pronouns: He
 - 👋 Hi, I’m @ricardonunesoficial
