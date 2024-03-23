@@ -23,8 +23,8 @@ Não tenho ideia 💡, porem, **Let's do this and have some fun!**
 
 ## Referências
 - [Follow Me](https://www.instagram.com/ricardonunes.oficial/)
-- [Let´s Connect](https://www.linkedin.com/in/ricardonunesoficial/))
-- [Whatch Me](https://www.youtube.com/ricardonunespnl)
+- [Let's Connect](https://www.linkedin.com/in/ricardonunesoficial/)
+- [Watch Me](https://www.youtube.com/ricardonunespnl)
 
 ##
 <div align="center">Feito com 💞️ por <a href="https://www.instagram.com/ricardonunes.oficial/"> 👋 Ricardo Nunes 👋 </a>.</div>
