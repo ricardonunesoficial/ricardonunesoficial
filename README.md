@@ -19,8 +19,9 @@ Não tenho ideia 💡, porem, **Let's do this and have some fun!**
 ## Ferramentas
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![GitBook](https://www.pngarts.com/files/8/Black-Github-Logo-PNG-Image.png/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://aline-antunes.gitbook.io/formacao-fundamentos-github)
 <br>
+[![GitBook](https://www.pngarts.com/files/8/Black-Github-Logo-PNG-Image.png)](https://aline-antunes.gitbook.io/formacao-fundamentos-github)
+</br>
 
 
 
