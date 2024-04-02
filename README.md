@@ -19,8 +19,11 @@ Não tenho ideia 💡, porem, **Let's do this and have some fun!**
 ## Ferramentas
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![GitBook](https://aline-antunes.gitbook.io/~gitbook/image?url=https:%2F%2F74136188-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F2HZbEqnaq1Y4YcnxMtW1%252Ficon%252F2VVeGvUXtU81CcfImquF%252Fgithub_5968896.png%3Falt=media%26token=8afbf961-6e6d-4a1a-a948-48cd1134f49a&width=32&dpr=2&quality=100&sign=9f9892373626450ca5a6589fb3008ff2e15d01a07203d89393f49d56e1b1c0da=git&logoColor=E94D5F)](https://aline-antunes.gitbook.io/formacao-fundamentos-github)
+[![GitBook](https://www.pngarts.com/files/8/Black-Github-Logo-PNG-Image.png/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://aline-antunes.gitbook.io/formacao-fundamentos-github)
 <br>
+
+
+
 
 ## Referências
 - [Follow Me](https://www.instagram.com/ricardonunes.oficial/)
