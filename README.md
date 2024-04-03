@@ -1,15 +1,17 @@
 <!-- Cabeçalhos -->
 <h1>
+     <div align="center">
      <a href="https://instagram.com/ricardonunes.oficial/">
      <img align="center" width="40px" src="https://th.bing.com/th/id/OIP.RYQd9A6wG-T3bXHApwa0RQHaFR?w=900&h=640&rs=1&pid=ImgDetMain">
-     <span> 👀 Um Pouco sobre mim! 👀 </span>
+     <span>👀 Um Pouco sobre mim! 👀</span>
      </a>
+     </div>
 </h1>
 
 ![.](https://camo.githubusercontent.com/67fc6fe69796a1433e92819310c117759475b5cba29dccedecd68a54e6f60fe6/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430305f6f70745f312f3831626234623136353638343031392e363430623630333864313333652e676966)
 
-## GIT & GITHUB - Para fins educativos...
-##### Repositório desenvolvido para fins educativos, não sou um desenvolvedor (ainda)!
+### GIT & GITHUB - Para fins educativos...
+#### Repositório desenvolvido para fins educativos, não sou um desenvolvedor (ainda)!
 
 - [x] ***Muito curioso sobre IA (Principalmente para Cloud)***
 - [x] ***Aprendendo sobre Python & PowerBI usando GitHub***
@@ -18,7 +20,7 @@
     > - *AZURE*
     > - *GCP*
 
-##### Formações mais recentes!
+### Formações mais recentes:
 
 ![Git & GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=E94D5F)
 ![Python & PowerBI](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=E94D5F)
