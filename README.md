@@ -20,8 +20,6 @@
     > - *AZURE*
     > - *GCP*
 
-<br> 
-
 ### TECNOLOGIAS - Ultimas formações e habilidades:
 
 <p align="center">
@@ -85,7 +83,7 @@ Não tenho ideia 💡, porem: **Let's do this and have some fun!**
 -----
 <br>
 
-📊 STATS - **GitHub Stats - Lembrando não sou DEV** :smile:
+📊 **GitHub Stats - Lembrando que eu não sou DEV** :smile:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardonunesoficial&show_icons=true&theme=radical)
 
@@ -98,9 +96,9 @@ Não tenho ideia 💡, porem: **Let's do this and have some fun!**
 
 
 ## Créditos ##
-- Badges by shields.io
-- GitHub Stats by anuraghazra
-- GitHub Book by alinealien
+- Badges by [shields.io](https://shields.io/)
+- GitHub Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file)
+- GitHub Book by [alinealien](https://github.com/alinealien)
 
 ##
 <h2>
