@@ -24,6 +24,10 @@
 
 ### TECNOLOGIAS - Ultimas formações e habilidades:
 
+<div align="center">
+
+-------
+
 ![Git & GitHub](https://img.shields.io/badge/Git_&_GitHub-000?style=for-the-badge&logo=github&logoColor=E94D5F)
 ![Python & PowerBI](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=E94D5F)
 ![POWERBI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=PowerBI&logoColor=E94D5F)
@@ -35,12 +39,16 @@
 ![VMWARE](https://img.shields.io/badge/VMWare-000?style=for-the-badge&logo=VMWare&logoColor=E94D5F)
 ![Segurança](https://img.shields.io/badge/Security-000?style=for-the-badge&logo=Sonicwall&logoColor=E94D5F)
 ![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform&logoColor=E94D5F)
-![ITIL](https://img.shields.io/badge/ITIL-000?style=for-the-badge&logo=itil&logoColor=E94D5F)
 
-</br>
+![ITIL](https://img.shields.io/badge/ITIL_&_Scrum-000?style=for-the-badge&logo=itil&logoColor=E94D5F)
+![OKRs](https://img.shields.io/badge/OKR_&_KPI-000?style=for-the-badge&logo=OKR&logoColor=E94D5F)
+![IT Manager](https://img.shields.io/badge/ITSM_Manager-000?style=for-the-badge&logo=ITManager&logoColor=E94D5F)
+![Sys Admin](https://img.shields.io/badge/Sys_Admin-000?style=for-the-badge&logo=sysadmin&logoColor=E94D5F)
+----------
+</div>
 
 <!-- Sobre mim -->
-## Quem eu sou ...
+## Ainda curioso (a) sobre mim ...
 
 <div align="center">
 🎯 <b>Apaixonado por Tecnologia, minha carreira totalmente dedicada a inovação, gestão e principalmente levar a área de tecnologia para o <i>TOPO</i> da empresa!</b> 🎯
@@ -61,6 +69,7 @@ Sou Formado em <b>Ciências da Computação</b>, quase terminei o <b>MBA em Gest
 > - 💞️ I try to help in any way I can - I Love Behavior Educaiton
 > - ⚡ Fun fact: I'm a Infra Guy - (:-p)
 
+
 <!-- Texto no meio do README -->
 ## Objetivos:
 Não tenho ideia 💡, porem: **Let's do this and have some fun!**
@@ -73,21 +82,25 @@ Não tenho ideia 💡, porem: **Let's do this and have some fun!**
 [![MarkDown](https://img.shields.io/badge/MarkDown-000?style=for-the-badge&logo=markdonw&logoColor=E94D5F)](https://github.com/mende1/guia-definitivo-de-markdown)
 </br>
 
-📊 STATS
-**GitHub Stats - Lembrando não sou DEV** :smile:
+-----
+<br>
+
+📊 STATS - **GitHub Stats - Lembrando não sou DEV** :smile:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardonunesoficial&show_icons=true&theme=radical)
 
+</br>
 
 ## Onde me encontrar:
 - [Let's Connect on LinkedIn](https://www.linkedin.com/in/ricardonunesoficial/)
 - [Follow Me on Instagram](https://www.instagram.com/ricardonunes.oficial/)
 - [Watch Me on Youtube](https://www.youtube.com/ricardonunespnl)
 
+
 ## Créditos ##
 - Badges by shields.io
 - GitHub Stats by anuraghazra
-- GitHub Streak by DenverCoder1
+- GitHub Book by alinealien
 
 ##
 <h2>
