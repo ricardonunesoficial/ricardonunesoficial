@@ -21,8 +21,8 @@
 ##### Formações mais recentes!
 
 ![Git & GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=E94D5F)
-![Python & PowerBI]((https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=E94D5F))
-![Azure Z900]((https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=azure&logoColor=E94D5F))
+![Python & PowerBI](https://img.shields.io/pypi/pyversions/)
+![Azure AZ900](https://img.shields.io/azure-devops/build/)
 ![AWS Cloud Practitioner]((https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=aws&logoColor=E94D5F))
 ![GCP & Terraform](https://img.shields.io/badge/GoogleCloud-000?style=for-the-badge&logo=googlecloud&logoColor=E94D5F)
 
