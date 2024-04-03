@@ -8,24 +8,34 @@
 
 ![.](https://camo.githubusercontent.com/67fc6fe69796a1433e92819310c117759475b5cba29dccedecd68a54e6f60fe6/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430305f6f70745f312f3831626234623136353638343031392e363430623630333864313333652e676966)
 
-## GITHUB Para fins educativos...
+## GIT & GITHUB - Para fins educativos...
 ##### Repositório desenvolvido para fins educativos, não sou um desenvolvedor (ainda)!
 
-- [x] **Muito curioso sobre IA (Principalmente para Cloud & Infra)**
-- [x] **Aprendendo sobre Python & PowerBI usando Git e GitHub**
-- [x] **Especialista em Infraestrutura em Cloud:**
+- [x] ***Muito curioso sobre IA (Principalmente para Cloud)***
+- [x] ***Aprendendo sobre Python & PowerBI usando GitHub***
+- [x] ***Especialista em Infraestrutura e gestão com Cloud Computing:***
     > - *AWS*
     > - *AZURE*
     > - *GCP*
 
+##### Formações mais recentes!
+
+![Git & GitHub]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg")
+![Python & PowerBI]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg")
+![Azure Z900]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg")
+![AWS Cloud Practitioner]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg")
+![GCP & Terraform]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg")
+
+
 <!-- Sobre mim -->
-## Quem sou EU
+## Quem eu sou ...
 🎯 **Apaixonado por Tecnologia, minha carreira sempre dedicada a inovação, gestão e levar a área de tecnologia para o TOPO da empresa!**  
 
 Olá!
 <p>
 Sou Formado em Ciências da Computação, quase terminei o MBA em Gestão de Tecnologia (Stoped for Covid-19) apaixonado pelo mundo Tech! Minha paixão fora do mundo Tech, envolve tudo sobre Neurociência, PNL (programação neurolinguística) e comportamento pessoal. 
 </p>
+
 
 > - 😄 Pronouns: He
 > - 👋 Hi, I’m @ricardonunesoficial
@@ -53,8 +63,8 @@ Não tenho ideia 💡, porem, **Let's do this and have some fun!**
 
 
 ## Referências
-- [Follow Me on Instagram](https://www.instagram.com/ricardonunes.oficial/)
 - [Let's Connect on LinkedIn](https://www.linkedin.com/in/ricardonunesoficial/)
+- [Follow Me on Instagram](https://www.instagram.com/ricardonunes.oficial/)
 - [Watch Me on Youtube](https://www.youtube.com/ricardonunespnl)
 
 ## Créditos ##
