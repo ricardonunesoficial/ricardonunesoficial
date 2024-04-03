@@ -31,9 +31,14 @@
 
 <!-- Sobre mim -->
 ## Quem eu sou ...
-🎯 **Apaixonado por Tecnologia, minha carreira sempre dedicada a inovação, gestão e levar a área de tecnologia para o TOPO da empresa!**  
 
+<div align="center">
+🎯 <b>Apaixonado por Tecnologia, minha carreira totalmente dedicada a inovação, gestão e principalmente levar a área de tecnologia para o <i>TOPO</i> da empresa!</b> 🎯
+</div>
+
+<br>
 Olá!
+</br>
 <p>
 Sou Formado em <b>Ciências da Computação</b>, quase terminei o <b>MBA em Gestão de Tecnologia</b> (Stoped for Covid-19) apaixonado pelo mundo Tech! Minha paixão fora do mundo Tech, envolve tudo sobre <b>Neurociência e PNL (programação neurolinguística)</b>. 
 </p>
