@@ -21,10 +21,10 @@
 ##### Formações mais recentes!
 
 ![Git & GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=E94D5F)
-![Python & PowerBI](https://img.shields.io/pypi/pyversions/)
-![Azure AZ900](https://img.shields.io/azure-devops/build/)
-![AWS Cloud Practitioner]((https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=aws&logoColor=E94D5F))
-![GCP & Terraform](https://img.shields.io/badge/GoogleCloud-000?style=for-the-badge&logo=googlecloud&logoColor=E94D5F)
+![Python & PowerBI](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=E94D5F)
+![Azure AZ900](https://img.shields.io/badge/AZURE-000?style=for-the-badge&logo=MicrosoftAzure&logoColor=E94D5F)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=AmazonAWS&logoColor=E94D5F)
+![GCP & Terraform](https://img.shields.io/badge/Google-000?style=for-the-badge&logo=googlecloud&logoColor=E94D5F)
 
 
 <!-- Sobre mim -->
@@ -33,10 +33,10 @@
 
 Olá!
 <p>
-Sou Formado em Ciências da Computação, quase terminei o MBA em Gestão de Tecnologia (Stoped for Covid-19) apaixonado pelo mundo Tech! Minha paixão fora do mundo Tech, envolve tudo sobre Neurociência, PNL (programação neurolinguística) e comportamento pessoal. 
+Sou Formado em <b>Ciências da Computação</b>, quase terminei o <b>MBA em Gestão de Tecnologia</b> (Stoped for Covid-19) apaixonado pelo mundo Tech! Minha paixão fora do mundo Tech, envolve tudo sobre <b>Neurociência e PNL (programação neurolinguística)</b>. 
 </p>
 
-
+## What else ...
 > - 😄 Pronouns: He
 > - 👋 Hi, I’m @ricardonunesoficial
 > - 👀 I’m interested in Technology All
@@ -44,13 +44,12 @@ Sou Formado em Ciências da Computação, quase terminei o MBA em Gestão de Tec
 > - 💞️ I try to help in any way I can - I Love Behavior Educaiton
 > - ⚡ Fun fact: I'm a Infra Guy - (:-p)
 
-
 <!-- Texto no meio do README -->
-## Objetivo
-Não tenho ideia 💡, porem, **Let's do this and have some fun!**
+## Objetivos:
+Não tenho ideia 💡, porem: **Let's do this and have some fun!**
 
 
-## Ferramentas
+## Ferramentas para estudo:
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![GitBook](https://img.shields.io/badge/GitBook-000?style=for-the-badge&logo=gitbook&logoColor=E94D5F)](https://aline-antunes.gitbook.io/formacao-fundamentos-github)
@@ -62,7 +61,7 @@ Não tenho ideia 💡, porem, **Let's do this and have some fun!**
 !Estatísticas do Git ricardonunesoficial
 
 
-## Referências
+## Onde me encontrar:
 - [Let's Connect on LinkedIn](https://www.linkedin.com/in/ricardonunesoficial/)
 - [Follow Me on Instagram](https://www.instagram.com/ricardonunes.oficial/)
 - [Watch Me on Youtube](https://www.youtube.com/ricardonunespnl)
@@ -72,12 +71,12 @@ Não tenho ideia 💡, porem, **Let's do this and have some fun!**
 - GitHub Stats by anuraghazra
 - GitHub Streak by DenverCoder1
 
-> - Copyright (C) 2024 by Ricardo Nunes
-
 ##
 <h2>
 <div align="center">Feito com 💞️ por <a href="https://www.instagram.com/ricardonunes.oficial/"> 👋 Ricardo Nunes 👋 </a>.</div>
 </h2>
+
+<div align="center"> Copyright (C) 2024 by Ricardo Nunes </div>
 
 <!---
 ricardonunesoficial/ricardonunesoficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
