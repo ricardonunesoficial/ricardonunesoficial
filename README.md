@@ -20,12 +20,11 @@
 
 ##### Formações mais recentes!
 
-![Git & GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg)
 ![Git & GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=E94D5F)
-![Python & PowerBI]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg")
-![Azure Z900]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg")
-![AWS Cloud Practitioner]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg")
-![GCP & Terraform]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg")
+![Python & PowerBI]((https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=E94D5F))
+![Azure Z900]((https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=azure&logoColor=E94D5F))
+![AWS Cloud Practitioner]((https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=aws&logoColor=E94D5F))
+![GCP & Terraform](https://img.shields.io/badge/GoogleCloud-000?style=for-the-badge&logo=googlecloud&logoColor=E94D5F)
 
 
 <!-- Sobre mim -->
