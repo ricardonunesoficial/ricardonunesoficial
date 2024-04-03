@@ -24,7 +24,7 @@
 
 ### TECNOLOGIAS - Ultimas formações e habilidades:
 
-<div align="center">
+<p align="center">
 
 -------
 
@@ -45,7 +45,7 @@
 ![IT Manager](https://img.shields.io/badge/ITSM_Manager-000?style=for-the-badge&logo=ITManager&logoColor=E94D5F)
 ![Sys Admin](https://img.shields.io/badge/Sys_Admin-000?style=for-the-badge&logo=sysadmin&logoColor=E94D5F)
 ----------
-</div>
+</p>
 
 <!-- Sobre mim -->
 ## Ainda curioso (a) sobre mim ...
