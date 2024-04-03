@@ -40,7 +40,7 @@
 Olá!
 </br>
 <p>
-Sou Formado em <b>Ciências da Computação</b>, quase terminei o <b>MBA em Gestão de Tecnologia</b> (Stoped for Covid-19) apaixonado pelo mundo Tech! Minha paixão fora do mundo Tech, envolve tudo sobre <b>Neurociência e PNL (programação neurolinguística)</b>. 
+Sou Formado em <b>Ciências da Computação</b>, quase terminei o <b>MBA em Gestão de Tecnologia</b> (Stoped by Covid-19) apaixonado pelo mundo Tech! Minha paixão fora do mundo Tech, envolve tudo sobre <b>Neurociência e PNL (programação neurolinguística)</b>. 
 </p>
 
 ## What else ...
