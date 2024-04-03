@@ -49,7 +49,7 @@
 ## Ainda curioso (a) sobre mim ...
 
 <div align="center">
-🎯 <b>Apaixonado por Tecnologia, minha carreira totalmente dedicada a inovação, gestão e principalmente levar a área de tecnologia para o <i>TOPO</i> da empresa!</b> 🎯
+🎯 <b>Apaixonado por Tecnologia, minha carreira é totalmente dedicada a inovação, gestão e principalmente para levar a área de tecnologia para o <i>TOPO</i> da empresa!</b> 🎯
 </div>
 
 <br>
