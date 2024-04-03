@@ -1,20 +1,25 @@
+<!-- Cabeçalhos -->
 <h1>
     <a href="https://instagram.com/ricardonunes.oficial/">
      <img align="center" width="40px" src="https://th.bing.com/th/id/OIP.RYQd9A6wG-T3bXHApwa0RQHaFR?w=900&h=640&rs=1&pid=ImgDetMain"></a>
     <span> 👀 Um Pouco sobre mim! 👀 </span>
 </h1>
 
-Repositório desenvolvido para fins educativos, não sou um desenvolvedor (ainda) **Versionamento de Código, Infraestrutura em Cloud com Git e GitHub**.
+Repositório desenvolvido para fins educativos, não sou um desenvolvedor (ainda) **Versionamento, Infraestrutura em Cloud (AWS, AZURE e GCP), usando Git e GitHub**.
+
 
 - 😄 Pronouns: He
 - 👋 Hi, I’m @ricardonunesoficial
 - 👀 I’m interested in Technology All
 - 🌱 I’m currently learning Dev
-- 💞️ I try to help in any way I can
+- 💞️ I try to help in any way I can - I Love Behavior Educaiton
 - ⚡ Fun fact: I'm a Infra Guy - (:-p)
 
+
+<!-- Texto no meio do README -->
 ## Objetivo
 Não tenho ideia 💡, porem, **Let's do this and have some fun!**
+
 
 ## Ferramentas
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
@@ -23,15 +28,17 @@ Não tenho ideia 💡, porem, **Let's do this and have some fun!**
 </br>
 
 
-
-
 ## Referências
 - [Follow Me](https://www.instagram.com/ricardonunes.oficial/)
 - [Let's Connect](https://www.linkedin.com/in/ricardonunesoficial/)
 - [Watch Me](https://www.youtube.com/ricardonunespnl)
 
 ##
+<h1>
+
 <div align="center">Feito com 💞️ por <a href="https://www.instagram.com/ricardonunes.oficial/"> 👋 Ricardo Nunes 👋 </a>.</div>
+
+</h1>
 
 <!---
 ricardonunesoficial/ricardonunesoficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
