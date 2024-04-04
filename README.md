@@ -94,7 +94,16 @@ Não tenho ideia 💡, porem: **Let's do this and have some fun!**
 - [Let's Connect on LinkedIn](https://www.linkedin.com/in/ricardonunesoficial/)
 - [Follow Me on Instagram](https://www.instagram.com/ricardonunes.oficial/)
 - [Watch Me on Youtube](https://www.youtube.com/ricardonunespnl)
+- [Fun and Travel with Me on TikTok](https://www.tiktok.com/@ricardonunes.oficial)
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=LINKEDIN&logoColor=E94D5F)](https://www.linkedin.com/in/ricardonunesoficial/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=INSTAGRAM&logoColor=E94D5F)](https://www.instagram.com/ricardonunes.oficial/)
+[![Youtube](https://img.shields.io/badge/YOUTUBE-000?style=for-the-badge&logo=YOUTUBE&logoColor=E94D5F)](https://www.youtube.com/ricardonunespnl)
+[![TikTok](https://img.shields.io/badge/TIKTOK-000?style=for-the-badge&logo=TIKTOK&logoColor=E94D5F)](https://www.tiktok.com/@ricardonunes.oficial)
+
+</div>
 
 ## Créditos ##
 - Badges by [shields.io](https://shields.io/)
