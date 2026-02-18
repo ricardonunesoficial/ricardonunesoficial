@@ -10,8 +10,6 @@
      </div>
 </h1>
 
-![.](https://camo.githubusercontent.com/67fc6fe69796a1433e92819310c117759475b5cba29dccedecd68a54e6f60fe6/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430305f6f70745f312f3831626234623136353638343031392e363430623630333864313333652e676966)
-
 ---
 
 ### GIT & GITHUB – Para fins educacionais
@@ -33,31 +31,51 @@ Aqui nada é “perfeito”: é o meu laboratório pessoal, onde registro o que 
 
 <p align="center">
 
+<!-- 🟢 DADOS & ANALYTICS -->
 -------
-
-![Git & GitHub](https://img.shields.io/badge/Git_&_GitHub-000?style=for-the-badge&logo=github&logoColor=E94D5F)
 ![Python & PowerBI](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=E94D5F)
 ![POWERBI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=PowerBI&logoColor=E94D5F)
+![MS SQL](https://img.shields.io/badge/MS_SQL-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=E94D5F)
+
+<!-- ☁️ CLOUD & IaC -->
 ![Azure AZ900](https://img.shields.io/badge/AZURE-000?style=for-the-badge&logo=MicrosoftAzure&logoColor=E94D5F)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=AmazonAWS&logoColor=E94D5F)
 ![GCP & Terraform](https://img.shields.io/badge/Google-000?style=for-the-badge&logo=googlecloud&logoColor=E94D5F)
-![Microsoft](https://img.shields.io/badge/Microsoft-000?style=for-the-badge&logo=microsoft&logoColor=E94D5F)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux&logoColor=E94D5F)
-![VMWARE](https://img.shields.io/badge/VMWare-000?style=for-the-badge&logo=VMWare&logoColor=E94D5F)
-![Segurança](https://img.shields.io/badge/Security-000?style=for-the-badge&logo=Sonicwall&logoColor=E94D5F)
 ![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform&logoColor=E94D5F)
-![GCP_Cloud_Composer](https://img.shields.io/badge/GCP_Cloud_Composer-000?style=for-the-badge&logo=apacheairflow&logoColor=E94D5F)
+![Cloud_Composer](https://img.shields.io/badge/Cloud_Composer-000?style=for-the-badge&logo=apacheairflow&logoColor=E94D5F)
 
+<!-- 🖥️ SERVERS & VIRTUALIZAÇÃO -->
+![Windows_Server](https://img.shields.io/badge/Win_Server_2019-000?style=for-the-badge&logo=windows&logoColor=E94D5F)
+![Linux_Server](https://img.shields.io/badge/Linux_Server-000?style=for-the-badge&logo=ubuntu&logoColor=E94D5F)
+![VMWARE](https://img.shields.io/badge/VMWare-000?style=for-the-badge&logo=VMWare&logoColor=E94D5F)
+![HyperV](https://img.shields.io/badge/Hyper-V-000?style=for-the-badge&logo=microsoft&logoColor=E94D5F)
 
-![ITIL](https://img.shields.io/badge/ITIL_&_Scrum-000?style=for-the-badge&logo=itil&logoColor=E94D5F)
+<!-- 🏢 ENTERPRISE & ERP -->
+![SAP](https://img.shields.io/badge/SAP-000?style=for-the-badge&logo=SAP&logoColor=E94D5F)
+![TOTVS](https://img.shields.io/badge/TOTVS-000?style=for-the-badge&logo=totvs&logoColor=E94D5F)
+![Exchange_2022](https://img.shields.io/badge/Exchange_2022-000?style=for-the-badge&logo=microsoftoutlook&logoColor=E94D5F)
+![M365](https://img.shields.io/badge/Microsoft_365-000?style=for-the-badge&logo=microsoft365&logoColor=E94D5F)
+
+<!-- 🌐 NETWORKING & SECURITY -->
+![HPe_Aruba](https://img.shields.io/badge/HPe_Aruba-000?style=for-the-badge&logo=HPE&logoColor=E94D5F)
+![Cisco](https://img.shields.io/badge/Cisco-000?style=for-the-badge&logo=cisco&logoColor=E94D5F)
+![Sonicwall_Fortigate](https://img.shields.io/badge/Firewall_Sonicwall-000?style=for-the-badge&logo=fortinet&logoColor=E94D5F)
+
+<!-- 📊 GESTÃO & METODOLOGIAS -->
+![ITIL](https://img.shields.io/badge/ITIL-000?style=for-the-badge&logo=itil&logoColor=E94D5F)
+![Scrum](https://img.shields.io/badge/Scrum-000?style=for-the-badge&logo=scrumalliance&logoColor=E94D5F)
+![Agile](https://img.shields.io/badge/Agile-000?style=for-the-badge&logo=agilealliance&logoColor=E94D5F)
 ![OKRs](https://img.shields.io/badge/OKR_&_KPI-000?style=for-the-badge&logo=OKR&logoColor=E94D5F)
-![IT Manager](https://img.shields.io/badge/ITSM_Manager-000?style=for-the-badge&logo=ITManager&logoColor=E94D5F)
-![Sys Admin](https://img.shields.io/badge/Sys_Admin-000?style=for-the-badge&logo=sysadmin&logoColor=E94D5F)
+![Lean](https://img.shields.io/badge/Lean-000?style=for-the-badge&logo=lean&logoColor=E94D5F)
+![MS_Project](https://img.shields.io/badge/MS_Project-000?style=for-the-badge&logo=microsoftproject&logoColor=E94D5F)
+
+<!-- 🔧 DEVOPS & TOOLS -->
+![Git & GitHub](https://img.shields.io/badge/Git_&_GitHub-000?style=for-the-badge&logo=github&logoColor=E94D5F)
 
 ----------
 </p>
 
----
+
 
 ## Ainda curioso(a) sobre mim…
 
@@ -114,9 +132,8 @@ Este GitHub é o meu espaço para:
 
 📊 **GitHub Stats – aprendizado em andamento** 😄
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardonunesoficial&show_icons=true&theme=radical)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=ricardonunesoficial&theme=dark)[web:1]
 
-</br>
 
 ## Onde me encontrar
 
