@@ -13,7 +13,6 @@
 ---
 
 ### GIT & GITHUB – Para fins educacionais
-
 #### Este repositório é um espaço de estudo, testes e aprendizado contínuo.
 
 - [x] ***Muito curioso sobre IA (principalmente para Cloud)***
