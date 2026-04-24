@@ -154,10 +154,10 @@ Este GitHub é o meu espaço para:
 
 ##
 <h2>
-<div align="center">Feito com 💞️ por <a href="https://www.instagram.com/ricardonunes.oficial/"> 👋 Ricardo Nunes 👋 </a>.</div>
+<div align="center">Feito por <a href="https://www.instagram.com/ricardonunes.oficial/"> 👋 Ricardo Nunes 👋 </a>.</div>
 </h2>
 
-<div align="center"> Copyright (C) 2024 by Ricardo Nunes </div>
+<div align="center"> Copyright (C) 2026 by Ricardo Nunes </div>
 
 <!---
 ricardonunesoficial/ricardonunesoficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
